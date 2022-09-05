@@ -17,3 +17,24 @@
     height: 50%;
     padding-top: 20px;
 }
+
+h3, h5{
+    color: #888888;
+}
+
+h3 span{
+    color: #55BEEB;
+}
+
+.article-img img{
+    max-height: 200px;
+}
+
+.article-img p{
+    font-size: 8px;
+}
+
+.article p{
+    padding: 20px;
+    text-align: justify;
+}
