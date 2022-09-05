@@ -1,4 +1,19 @@
+/*css reset*/
+
 *{
     margin: 0;
     padding: 0;
+}
+
+.top_box{
+    background-color: #4EA0FF;
+    height: 10vh;
+    width: 100%;
+    background-image: url("../img/pattern.png");
+    background-size: contain;
+}
+
+.logo{
+    height: 50%;
+    padding-top: 20px;
 }
